@@ -1,0 +1,292 @@
+{
+ "actualizado": "2026-10-20T20:17:43-05:00",
+ "desde": "2026-07-22",
+ "total": 18630,
+ "conteo": {
+  "O": 3526,
+  "CO": 1969,
+  "C": 282,
+  "S": 5458,
+  "B": 7395
+ },
+ "archivos": {
+  "O": "obras",
+  "CO": "consultoria-obras",
+  "C": "consultoria",
+  "S": "servicios",
+  "B": "bienes"
+ },
+ "metodos": [
+  "Licitación Pública",
+  "Licitación Pública Abreviada",
+  "Concurso Público Abreviado",
+  "Adjudicación Simplificada",
+  "Concurso Público de Servicios",
+  "Concurso Público para Consultoría",
+  "Subasta Inversa Electrónica",
+  "Adjudicación Selectiva",
+  "Comparación de Precios",
+  "Procedimiento Especial de Contratación",
+  "Contratación Internacional",
+  "Contratación Directa",
+  "Convenio",
+  "Regímen Especial",
+  "Licitación Pública Abreviada Homologación",
+  "Concurso Público Abreviado Homologación",
+  "Adjudicación Abreviada",
+  "Procedimiento Especial de Contratación-Nueva Convocatoria por Desierto",
+  "Concurso Público Abreviado Séptima DCF Ley N°32069",
+  "Adjudicación para Contrato Marco",
+  "Contratos Estandarizados",
+  "Licitación Pública Abreviada - Ley N°31589"
+ ],
+ "ubicaciones": {
+  "AMAZONAS": [
+   "BAGUA",
+   "BONGARA",
+   "CHACHAPOYAS",
+   "CONDORCANQUI",
+   "LUYA",
+   "RODRIGUEZ DE MENDOZA",
+   "UTCUBAMBA"
+  ],
+  "ANCASH": [
+   "AIJA",
+   "ANTONIO RAYMONDI",
+   "ASUNCION",
+   "BOLOGNESI",
+   "CARHUAZ",
+   "CARLOS FERMIN FITZCARRALD",
+   "CASMA",
+   "CORONGO",
+   "HUARAZ",
+   "HUARI",
+   "HUARMEY",
+   "HUAYLAS",
+   "MARISCAL LUZURIAGA",
+   "OCROS",
+   "PALLASCA",
+   "POMABAMBA",
+   "RECUAY",
+   "SANTA",
+   "SIHUAS",
+   "YUNGAY"
+  ],
+  "APURIMAC": [
+   "ABANCAY",
+   "ANDAHUAYLAS",
+   "ANTABAMBA",
+   "AYMARAES",
+   "CHINCHEROS",
+   "COTABAMBAS",
+   "GRAU"
+  ],
+  "AREQUIPA": [
+   "AREQUIPA",
+   "CAMANA",
+   "CARAVELI",
+   "CASTILLA",
+   "CAYLLOMA",
+   "CONDESUYOS",
+   "ISLAY",
+   "LA UNION"
+  ],
+  "AYACUCHO": [
+   "CANGALLO",
+   "HUAMANGA",
+   "HUANCA SANCOS",
+   "HUANTA",
+   "LA MAR",
+   "LUCANAS",
+   "PARINACOCHAS",
+   "PAUCAR DEL SARA SARA",
+   "SUCRE",
+   "VICTOR FAJARDO",
+   "VILCAS HUAMAN"
+  ],
+  "CAJAMARCA": [
+   "CAJABAMBA",
+   "CAJAMARCA",
+   "CELENDIN",
+   "CHOTA",
+   "CONTUMAZA",
+   "CUTERVO",
+   "HUALGAYOC",
+   "JAEN",
+   "SAN IGNACIO",
+   "SAN MARCOS",
+   "SAN MIGUEL",
+   "SAN PABLO",
+   "SANTA CRUZ"
+  ],
+  "CALLAO": [
+   "CALLAO"
+  ],
+  "CUSCO": [
+   "ACOMAYO",
+   "ANTA",
+   "CALCA",
+   "CANAS",
+   "CANCHIS",
+   "CHUMBIVILCAS",
+   "CUSCO",
+   "ESPINAR",
+   "LA CONVENCION",
+   "PARURO",
+   "PAUCARTAMBO",
+   "QUISPICANCHI",
+   "URUBAMBA"
+  ],
+  "HUANCAVELICA": [
+   "ACOBAMBA",
+   "ANGARAES",
+   "CASTROVIRREYNA",
+   "CHURCAMPA",
+   "HUANCAVELICA",
+   "HUAYTARA",
+   "TAYACAJA"
+  ],
+  "HUANUCO": [
+   "AMBO",
+   "DOS DE MAYO",
+   "HUACAYBAMBA",
+   "HUAMALIES",
+   "HUANUCO",
+   "LAURICOCHA",
+   "LEONCIO PRADO",
+   "MARAÑON",
+   "PACHITEA",
+   "PUERTO INCA",
+   "YAROWILCA"
+  ],
+  "ICA": [
+   "CHINCHA",
+   "ICA",
+   "NAZCA",
+   "PALPA",
+   "PISCO"
+  ],
+  "JUNIN": [
+   "CHANCHAMAYO",
+   "CHUPACA",
+   "CONCEPCION",
+   "HUANCAYO",
+   "JAUJA",
+   "JUNIN",
+   "SATIPO",
+   "TARMA",
+   "YAULI"
+  ],
+  "LA LIBERTAD": [
+   "ASCOPE",
+   "BOLIVAR",
+   "CHEPEN",
+   "GRAN CHIMU",
+   "JULCAN",
+   "OTUZCO",
+   "PACASMAYO",
+   "PATAZ",
+   "SANCHEZ CARRION",
+   "SANTIAGO DE CHUCO",
+   "TRUJILLO",
+   "VIRU"
+  ],
+  "LAMBAYEQUE": [
+   "CHICLAYO",
+   "FERREÑAFE",
+   "LAMBAYEQUE"
+  ],
+  "LIMA": [
+   "BARRANCA",
+   "CAJATAMBO",
+   "CANTA",
+   "CAÑETE",
+   "HUARAL",
+   "HUAROCHIRI",
+   "HUAURA",
+   "LIMA",
+   "OYON",
+   "YAUYOS"
+  ],
+  "LORETO": [
+   "ALTO AMAZONAS",
+   "DATEM DEL MARAÑON",
+   "LORETO",
+   "MARISCAL RAMON CASTILLA",
+   "MAYNAS",
+   "PUTUMAYO",
+   "REQUENA",
+   "UCAYALI"
+  ],
+  "MADRE DE DIOS": [
+   "MANU",
+   "TAHUAMANU",
+   "TAMBOPATA"
+  ],
+  "MOQUEGUA": [
+   "GENERAL SANCHEZ CERRO",
+   "ILO",
+   "MARISCAL NIETO"
+  ],
+  "PASCO": [
+   "DANIEL ALCIDES CARRION",
+   "OXAPAMPA",
+   "PASCO"
+  ],
+  "PIURA": [
+   "AYABACA",
+   "HUANCABAMBA",
+   "MORROPON",
+   "PAITA",
+   "PIURA",
+   "SECHURA",
+   "SULLANA",
+   "TALARA"
+  ],
+  "PUNO": [
+   "AZANGARO",
+   "CARABAYA",
+   "CHUCUITO",
+   "EL COLLAO",
+   "HUANCANE",
+   "LAMPA",
+   "MELGAR",
+   "MOHO",
+   "PUNO",
+   "SAN ANTONIO DE PUTINA",
+   "SAN ROMAN",
+   "SANDIA",
+   "YUNGUYO"
+  ],
+  "SAN MARTIN": [
+   "BELLAVISTA",
+   "EL DORADO",
+   "HUALLAGA",
+   "LAMAS",
+   "MARISCAL CACERES",
+   "MOYOBAMBA",
+   "PICOTA",
+   "RIOJA",
+   "SAN MARTIN",
+   "TOCACHE"
+  ],
+  "TACNA": [
+   "CANDARAVE",
+   "JORGE BASADRE",
+   "TACNA",
+   "TARATA"
+  ],
+  "TUMBES": [
+   "CONTRALMIRANTE VILLAR",
+   "TUMBES",
+   "ZARUMILLA"
+  ],
+  "UCAYALI": [
+   "ATALAYA",
+   "CORONEL PORTILLO",
+   "PADRE ABAD",
+   "PURUS"
+  ]
+ },
+ "fuente": "OECE – Portal de Contrataciones Abiertas (OCDS), licencia CC BY 4.0"
+}
