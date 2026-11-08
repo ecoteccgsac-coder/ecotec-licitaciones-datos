@@ -1,6 +1,6 @@
 {
- "actualizado": "2026-11-07T17:12:57-05:00",
- "desde": "2026-08-09",
+ "actualizado": "2026-11-08T16:07:40-05:00",
+ "desde": "2026-08-10",
  "total": 19958,
  "conteo": {
   "O": 3697,
@@ -17,16 +17,16 @@
   "B": "bienes"
  },
  "metodos": [
-  "Concurso Público de Servicios",
-  "Concurso Público para Consultoría",
   "Concurso Público Abreviado",
   "Licitación Pública",
   "Subasta Inversa Electrónica",
-  "Regímen Especial",
+  "Concurso Público de Servicios",
   "Licitación Pública Abreviada",
-  "Contratación Directa",
   "Adjudicación Simplificada",
+  "Contratación Directa",
+  "Concurso Público para Consultoría",
   "Adjudicación Selectiva",
+  "Regímen Especial",
   "Comparación de Precios",
   "Convenio",
   "Contratación Internacional",
