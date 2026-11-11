@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-10T18:31:17-05:00",
- "desde": "2026-08-12",
- "total": 19619,
+ "actualizado": "2026-11-11T16:06:04-05:00",
+ "desde": "2026-08-13",
+ "total": 19641,
  "conteo": {
-  "O": 3605,
-  "CO": 2018,
-  "C": 266,
-  "S": 5852,
-  "B": 7878
+  "O": 3580,
+  "CO": 2027,
+  "C": 268,
+  "S": 5851,
+  "B": 7915
  },
  "archivos": {
   "O": "obras",
@@ -17,19 +17,19 @@
   "B": "bienes"
  },
  "metodos": [
-  "Regímen Especial",
   "Licitación Pública Abreviada",
-  "Licitación Pública",
-  "Subasta Inversa Electrónica",
-  "Concurso Público Abreviado",
   "Concurso Público para Consultoría",
+  "Licitación Pública",
+  "Concurso Público Abreviado",
+  "Subasta Inversa Electrónica",
   "Concurso Público de Servicios",
+  "Convenio",
   "Adjudicación Simplificada",
   "Contratación Directa",
+  "Regímen Especial",
   "Comparación de Precios",
   "Adjudicación Selectiva",
   "Licitación Pública Abreviada Homologación",
-  "Convenio",
   "Contratación Internacional",
   "Concurso Público Abreviado Homologación",
   "Procedimiento Especial de Contratación-Nueva Convocatoria por Desierto",
