@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-17T07:00:05-05:00",
+ "actualizado": "2026-11-17T15:55:57-05:00",
  "desde": "2026-08-19",
- "total": 19253,
+ "total": 19527,
  "conteo": {
-  "O": 3483,
-  "CO": 2008,
-  "C": 259,
-  "S": 5728,
-  "B": 7775
+  "O": 3530,
+  "CO": 2044,
+  "C": 262,
+  "S": 5794,
+  "B": 7897
  },
  "archivos": {
   "O": "obras",
@@ -17,15 +17,15 @@
   "B": "bienes"
  },
  "metodos": [
-  "Concurso Público de Servicios",
   "Licitación Pública Abreviada",
-  "Licitación Pública",
-  "Adjudicación Selectiva",
   "Concurso Público Abreviado",
   "Concurso Público para Consultoría",
-  "Contratación Directa",
-  "Comparación de Precios",
+  "Licitación Pública",
   "Subasta Inversa Electrónica",
+  "Concurso Público de Servicios",
+  "Contratación Directa",
+  "Adjudicación Selectiva",
+  "Comparación de Precios",
   "Adjudicación Simplificada",
   "Regímen Especial",
   "Convenio",
