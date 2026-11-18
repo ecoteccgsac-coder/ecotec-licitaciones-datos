@@ -1,13 +1,13 @@
 {
- "actualizado": "2026-11-17T15:55:57-05:00",
- "desde": "2026-08-19",
- "total": 19527,
+ "actualizado": "2026-11-18T07:52:00-05:00",
+ "desde": "2026-08-20",
+ "total": 19204,
  "conteo": {
-  "O": 3530,
-  "CO": 2044,
-  "C": 262,
-  "S": 5794,
-  "B": 7897
+  "O": 3461,
+  "CO": 2005,
+  "C": 252,
+  "S": 5694,
+  "B": 7792
  },
  "archivos": {
   "O": "obras",
@@ -274,8 +274,7 @@
   "TACNA": [
    "CANDARAVE",
    "JORGE BASADRE",
-   "TACNA",
-   "TARATA"
+   "TACNA"
   ],
   "TUMBES": [
    "CONTRALMIRANTE VILLAR",
